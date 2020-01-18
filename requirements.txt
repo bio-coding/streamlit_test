@@ -1,1 +1,2 @@
 streamlit==0.53.0
+gunicorn==20.0.4
